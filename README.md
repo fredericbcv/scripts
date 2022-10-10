@@ -1,6 +1,24 @@
 # Scripts
 Not real projects, only small scripts
 
+## coffee.py
+**Usage** 
+
+`python coffee.py`
+
+**Description**
+
+Prevent computer to go to sleep (Windows only)
+
+## mousejiggler
+**Usage** 
+
+`python mousejiggler.py`
+
+**Description**
+
+Simulate mouse input in Windows
+
 ## udp_grabber.sh
 **Usage** 
 
